@@ -381,3 +381,26 @@ color: var(--main-color);
     transform: scale(1.1);
     cursor: pointer;
 }
+
+
+/* -------------------------footer--------------------------- */
+.end{
+    background-color: #961010;
+    height: 60px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.end a{
+    
+    /* position: fixed; */
+    height: 60px;
+    width: 60px;
+    color: aqua;
+    /* background: #1a1818; */
+    font-size: 50px;
+    border-radius: 10px;
+    margin-left: 20%;
+}
